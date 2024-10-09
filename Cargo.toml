@@ -4,8 +4,8 @@ version = "1.3.2"
 authors = ["rustdesk <info@rustdesk.com>"]
 edition = "2021"
 build= "build.rs"
-description = "EspeDesk Remote Desktop"
-default-run = "espedesk"
+description = "RustDesk Remote Desktop"
+default-run = "rustdesk"
 rust-version = "1.75"
 
 [lib]
