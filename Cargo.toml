@@ -2,7 +2,7 @@
 name = "espedesk"
 version = "1.3.2"
 authors = ["rustdesk <info@rustdesk.com>"]
-edition = "2024"
+edition = "2021"
 build= "build.rs"
 description = "EspeDesk Remote Desktop"
 default-run = "espedesk"
