@@ -1,5 +1,5 @@
 [package]
-name = "espedesk"
+name = "rustdesk"
 version = "1.3.2"
 authors = ["Drustdesk <info@rustdesk.com>"]
 edition = "2021"
@@ -177,7 +177,7 @@ exclude = ["vdi/host", "examples/custom_plugin"]
 [package.metadata.winres]
 LegalCopyright = "Copyright © 2024 Purslane Ltd. All rights reserved."
 ProductName = "RustDesk"
-FileDescription = "RustDesk Remote Desktop"
+FileDescription = "DRustDesk Remote Desktop"
 OriginalFilename = "rustdesk.exe"
 
 [target.'cfg(target_os="windows")'.build-dependencies]
