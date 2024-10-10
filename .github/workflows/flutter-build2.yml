@@ -1,4 +1,4 @@
-name: Build.. blabla... 2 (DR)
+name: Build the flutter 2 (DR)
 
 on:
   workflow_call:
