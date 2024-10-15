@@ -1,6 +1,6 @@
 # Contribuzione a RustDesk
 
-RustDesk accoglie con favore il contributo di tutti.
+DRustDesk accoglie con favore il contributo di tutti.
 Ecco le linee guida se stai pensando di aiutarci.
 
 ## Contribuzione
